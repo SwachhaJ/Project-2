@@ -39,6 +39,6 @@ build/
 
 # Default ignored files
 /shelf/
-/workspace.xml
-/.idea
-/target
+/workspace.xml/
+/.idea/
+/target/
